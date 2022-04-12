@@ -17,7 +17,7 @@
       <a href="#getting-started">Contents</a>
       <ul>
         <li><a href="##prerequisites">Prerequisites</a></li>
-        <li><a href="##handtracking">Hand Tracking</a></li>
+        <li><a href="##handtracking">Hand Landmark Model</a></li>
       </ul>
 </li>
 </ol>
@@ -30,11 +30,25 @@ This repository include all showcase projects related to advance computer vision
 ![Advance Image Processing](./hand-tracking/demo.gif)
 
  
-#getting-started
+#Contents
 
  ## Prerequisites
 * Python programming
 * Basic Knowledge of 
-<a href="https://pypi.org/project/opencv-python/">opencv</a>,<a href="https://google.github.io/mediapipe/getting_started/python.html">mediapipe</a>
-## Hand Tracking
+<a href="https://pypi.org/project/opencv-python/">opencv</a>
+,<a href="https://google.github.io/mediapipe/getting_started/python.html">mediapipe</a>
+
+## Hand Landmark Model
+<p> mediapipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
+
+Some of the major applications of MediaPipe.
+
+* Multi-hand Tracking
+* Face Detection
+* Object Detection and Tracking
+* Objectron: 3D Object Detection and Tracking
+* AutoFlip: Automatic video cropping pipeline etc.
+
+![Handlandmarks](./hand-tracking/hlm.png)
+</p>
 
