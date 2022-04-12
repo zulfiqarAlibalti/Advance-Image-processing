@@ -22,7 +22,8 @@
 </li>
 </ol>
 </details>
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT-->
+
 # About The Project
 
 This repository include all showcase projects related to advance computer vision and image processing techniques in Python.
@@ -30,7 +31,7 @@ This repository include all showcase projects related to advance computer vision
 ![Advance Image Processing](./hand-tracking/demo.gif)
 
  
-#Contents
+# Contents
 
  ## Prerequisites
 * Python programming
