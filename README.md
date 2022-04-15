@@ -17,7 +17,8 @@
       <a href="#getting-started">Contents</a>
       <ul>
         <li><a href="##prerequisites">Prerequisites</a></li>
-        <li><a href="##handtracking">Hand Landmark Model</a></li>
+        <li><a href="##handtracking">Hand Tracking</a></li>
+        <li><a href="##poseestimation">Real time Pose Estimation </a></li>
       </ul>
 </li>
 </ol>
@@ -51,5 +52,12 @@ Some of the major applications of MediaPipe.
 * AutoFlip: Automatic video cropping pipeline etc.
 
 ![Handlandmarks](./hand-tracking/hlm.png)
+
+# Real time Pose Estimation
+In this project 2 I have build a pose estimation module using opencv and 
+mediapipe.
+
+![Pose Estimation](./Pose_estimation/pose.gif)
+
 </p>
 
