@@ -41,7 +41,8 @@ This repository include all showcase projects related to advance computer vision
 ,<a href="https://google.github.io/mediapipe/getting_started/python.html">mediapipe</a>
 
 ## Hand Landmark Model
-<p> mediapipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
+<p> Media pipe is an open-source cross-platform framework for building multimodel machine learning pipelines. It can be used to implement cutting-edge models like human face detection, multi-hand tracking, hair segmentation, object detection and tracking, and so on.
+mediapipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
 
 Some of the major applications of MediaPipe.
 
@@ -54,8 +55,8 @@ Some of the major applications of MediaPipe.
 ![Handlandmarks](./hand-tracking/hlm.png)
 
 # Real time Pose Estimation
-In this project 2 I have build a pose estimation module using opencv and 
-mediapipe.
+In this project 2 I have make a Python Object class  pose estimation module using opencv and 
+mediapipe.Pose estimation is a computer vision technique to track the movements of a person or an object. This is usually performed by finding the location of key points for the given objects. Based on these key points we can compare various movements and postures and draw insights. Pose estimation is actively used in the field of augmented reality, animation, gaming, and robotics.
 
 ![Pose Estimation](./Pose_estimation/pose.gif)
 
