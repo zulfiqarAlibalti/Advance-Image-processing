@@ -67,7 +67,7 @@ Human pose estimation from video or a real-time feed plays a crucial role in var
 
 Here is the result of realtime pose estimation of my module.
 
-[//]: # (![Pose Estimation]&#40;./Pose_estimation/pose.gif&#41;)
+![Pose Estimation](./Pose_estimation/pose.gif)
 
 # Face Detection
 
