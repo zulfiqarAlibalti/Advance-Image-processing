@@ -19,6 +19,7 @@
         <li><a href="##prerequisites">Prerequisites</a></li>
         <li><a href="##handtracking">Hand Tracking</a></li>
         <li><a href="##poseestimation">Real time Pose Estimation </a></li>
+         <li><a href="##poselandmarks">Pose Landmark Model </a></li>
       </ul>
 </li>
 </ol>
@@ -57,6 +58,13 @@ Some of the major applications of MediaPipe.
 # Real time Pose Estimation
 In this project 2 I have make a Python Object class  pose estimation module using opencv and 
 mediapipe.Pose estimation is a computer vision technique to track the movements of a person or an object. This is usually performed by finding the location of key points for the given objects. Based on these key points we can compare various movements and postures and draw insights. Pose estimation is actively used in the field of augmented reality, animation, gaming, and robotics.
+
+# Pose Landmark Model
+Human pose estimation from video or a real-time feed plays a crucial role in various fields such as full-body gesture control, quantifying physical exercise, and sign language recognition. For example, it can be used as the base model for fitness, yoga, and dance applications. It finds its major part in augmented reality.
+
+![poselandmark](./Pose_estimation/posestimation.png)
+
+Here is the result of realtime pose estimation of my module.
 
 ![Pose Estimation](./Pose_estimation/pose.gif)
 
