@@ -19,7 +19,8 @@
         <li><a href="##prerequisites">Prerequisites</a></li>
         <li><a href="##handtracking">Hand Tracking</a></li>
         <li><a href="##poseestimation">Real time Pose Estimation </a></li>
-         <li><a href="##poselandmarks">Pose Landmark Model </a></li>
+        <li><a href="##poselandmarks">Pose Landmark Model </a></li>
+        <li><a href="##facedetection">Face Detection </a></li>
       </ul>
 </li>
 </ol>
@@ -67,6 +68,15 @@ Human pose estimation from video or a real-time feed plays a crucial role in var
 Here is the result of realtime pose estimation of my module.
 
 ![Pose Estimation](./Pose_estimation/pose.gif)
+
+# Face Detection
+
+The model for 3D face landmarks has been employed using transfer learning and it is trained on a network with different objectives: the network predicts 3D landmark coordinates on synthetic rendered data. The resulting network performed reasonably well on real-world data.
+
+The 3D landmark network takes input as a cropped video frame without additional depth input. The model outputs the positions of the 3D points, reasonably aligned in the input.
+The demo of face detection module is in below.
+
+![Face Detection](./Face Detection/facedetection.gif)
 
 </p>
 
