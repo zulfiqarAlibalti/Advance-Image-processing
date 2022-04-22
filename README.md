@@ -78,5 +78,13 @@ The demo of face detection module is in below.
 
 ![Face Detection](./Face Detection/facedetection.gif)
 
+# Face Mesh Detection
+
+In face detection using mediapipe we were unble to visualize the other key elements of faces such as
+the major facial key points so to sove this issue we use another method which is to detect all 468 facial landmarks points.
+
+
+![Face Mesh](./Face Mesh Detection/facemesh.gif)
+
 </p>
 
