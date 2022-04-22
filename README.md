@@ -21,6 +21,7 @@
         <li><a href="##poseestimation">Real time Pose Estimation </a></li>
         <li><a href="##poselandmarks">Pose Landmark Model </a></li>
         <li><a href="##facedetection">Face Detection </a></li>
+        <li><a href="##facemesh">Face Mesh </a></li>
       </ul>
 </li>
 </ol>
