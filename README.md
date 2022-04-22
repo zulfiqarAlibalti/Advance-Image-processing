@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Advance-Image-processing ✨</h1>
+  <h1 align="center">Advance-Image-processing 💥💥🌟💥💥</h1>
 
 <br />
   
