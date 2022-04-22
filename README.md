@@ -76,7 +76,7 @@ The model for 3D face landmarks has been employed using transfer learning and it
 The 3D landmark network takes input as a cropped video frame without additional depth input. The model outputs the positions of the 3D points, reasonably aligned in the input.
 The demo of face detection module is in below.
 
-![Face Detection](./Face Detection/facedetection.gif)
+![Face Detection](./Face_Detection/facedetection.gif)
 
 # Face Mesh Detection
 
@@ -84,7 +84,7 @@ In face detection using mediapipe we were unble to visualize the other key eleme
 the major facial key points so to sove this issue we use another method which is to detect all 468 facial landmarks points.
 
 
-![Face Mesh](./Face Mesh Detection/facemesh.gif)
+![Face Mesh](./Face_Mesh_Detection/facemesh.gif)
 
 </p>
 
